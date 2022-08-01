@@ -12,8 +12,7 @@ http://maoyingshi.cc/调试助手/云星日记/1.txt//微信公众号【云星�
 
 //云星旗下话费充值折扣公众号：【云优惠生活】
 //详情查看文章介绍：https://mp.weixin.qq.com/s/Bbm6mQtu_DjNJPXcXW0VOA
-{
-"spider":"https://github.com/zykmao/-2/mian/公众号:云星日记0712.jar",
+
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "wallpaper":"http://css.lc/api.php",
