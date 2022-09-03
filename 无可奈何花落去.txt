@@ -1,4 +1,6 @@
-"sites":[ 
+{
+  "网站":[
+
 
 
 
@@ -14,7 +16,7 @@
   },
 {
     "key": "EwrcX0124V",
-    "name": "提笔绘山河提醒您，纵欲别过度，代理需谨慎，别给国家添麻烦",
+    "name": "提笔绘山河提醒您,
     "type": 1,
     "api": "http://ys.huangguay.com/api.php/provide/vod/",
     "searchable": 0,
