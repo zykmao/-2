@@ -16,11 +16,11 @@
   },
   {
     "key": "EwrcX0124V",
-    "name": "按质量排序，可搜关键字与番号，随时失效自己复制保存",
-    "type": 1,
+    "name": "提笔河提醒您：别山过度，别给国家纵绘麻烦",
+    “类型”：1，
     "api": "http://ys.huangguay.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
+    “可搜索”：0，
+    “快速搜索”：0，
     "filterable": 0
   },
 
