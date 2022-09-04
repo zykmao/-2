@@ -17,7 +17,7 @@
 {
     "key": "EwrcX0124V",
     “name”: "提笔绘山河提醒您,纵欲别过度,代理需谨慎",
-    “type”: 1，
+    “type”: 0,
     "api": "http://ys.huangguay.com/api.php/provide/vod/",
     "searchable": 0,
     "quickSearch": 0,
