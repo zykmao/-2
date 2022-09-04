@@ -1,8 +1,6 @@
-{
+  {
   "spider":"https://github.com/zykmao/-2/mian/公众号:云星日记0730.jar",
   {"sites":[
-
-
   {
     "key": "EwrcXV",
     "name": "侦探app影视",
@@ -13,7 +11,7 @@
     "filterable": 0
   },
 {
-    "key": "EwrcX0124V",
+    "key": "提笔绘山河提醒您,纵欲别过度,代理需谨慎",
     "name": "提笔绘山河提醒您,纵欲别过度,代理需谨慎",
     "type": 1，
     "api": "http://ys.huangguay.com/api.php/provide/vod/",
